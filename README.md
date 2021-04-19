@@ -3,9 +3,9 @@
 
 ## Note
 
-Just change the object GuideScreenData Model Content.
+    Just change the object GuideScreenData Model Content.
 
-Example :-     
+    Example :-     
         guideScreenDataModel = 
         [
             GuideScreenData(title: "Customized Media Training", description:  "This is a customizable media training platform that helps athletes be as prepared in front of the camera, as they are on the field.", image:#imageLiteral(resourceName: "guide1"))
